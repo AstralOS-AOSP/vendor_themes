@@ -30,3 +30,10 @@ PRODUCT_PACKAGES += \
     BlackPearlAccent \
     OnePlusRedAccent \
     SweetQPurpleAccent \
+
+# QS tile styles
+PRODUCT_PACKAGES += \
+    QStileCircleTrim \
+    QStileDefault \
+    QStileDualToneCircle \
+    QStileSquircleTrim
