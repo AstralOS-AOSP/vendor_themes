@@ -58,4 +58,7 @@ PRODUCT_PACKAGES += \
     QStileBadge \
     QStileBadgetwo \
     QStileTriangle \
-    QStileOxygen
+    QStileOxygen \
+    QStileOreo \
+    QStileOreoCircleTrim \
+    QStileOreoSquircleTrim
