@@ -37,6 +37,7 @@ PRODUCT_PACKAGES += \
     QStileDefault \
     QStileDualToneCircle \
     QStileSquircleTrim \
+    QStileCookie \
     QStileAttemptMountain \
     QStileCircleDual \
     QStileCircleGradient \
