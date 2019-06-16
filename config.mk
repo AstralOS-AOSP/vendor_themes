@@ -56,4 +56,5 @@ PRODUCT_PACKAGES += \
     QStileSquircle \
     QStileTeardrop \
     QStileBadge \
-    QStileBadgetwo
+    QStileBadgetwo \
+    QStileTriangle
