@@ -50,4 +50,8 @@ PRODUCT_PACKAGES += \
     QStileOreo \
     QStileOreoCircleTrim \
     QStileOreoSquircleTrim \
-    QStileCircleOutline
+    QStileCircleOutline \
+    QStileRoundedRect \
+    QStileSquare \
+    QStileSquircle \
+    QStileTeardrop
