@@ -45,13 +45,15 @@ PRODUCT_PACKAGES += \
     QStileNinja \
     QStilePokesign \
     QStileWavey \
-    QStileInkDrop \
+    QStileDiamond \
     QStileSquaremedo \
-    QStileOreo \
-    QStileOreoCircleTrim \
-    QStileOreoSquircleTrim \
+    QStileHexagon \
+    QStileStar \
+    QStileGear \
     QStileCircleOutline \
     QStileRoundedRect \
     QStileSquare \
     QStileSquircle \
-    QStileTeardrop
+    QStileTeardrop \
+    QStileBadge \
+    QStileBadgetwo
