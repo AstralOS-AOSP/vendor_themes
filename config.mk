@@ -26,3 +26,6 @@ PRODUCT_PACKAGES += \
     GreenAccent \
     WhiteAccent \
     CyanAccent \
+    BlackPearlAccent \
+    OnePlusRedAccent \
+    SweetQPurpleAccent \
