@@ -57,4 +57,5 @@ PRODUCT_PACKAGES += \
     QStileTeardrop \
     QStileBadge \
     QStileBadgetwo \
-    QStileTriangle
+    QStileTriangle \
+    QStileOxygen
